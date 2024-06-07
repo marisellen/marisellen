@@ -1,6 +1,11 @@
 
 Hi there!<br>
-I'm currently computer science student and learning fullstack developer + java.
+I'm currently computer science student and learning fullstack developer
+HTML5, CSS3, Javascript, NodeJS + Vue JS
+Java + Spring boot, Mysql.
+
+
+.
 <br><br>
 <div align="center"> 
  <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
