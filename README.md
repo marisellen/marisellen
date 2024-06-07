@@ -5,7 +5,6 @@ I'm currently computer science student and learning fullstack developer
 <br> Java + Spring boot, Mysql.
 
 
-.
 <br><br>
 <div align="center"> 
  <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
