@@ -1,8 +1,8 @@
 
 Hi there!<br>
 I'm currently computer science student and learning fullstack developer
-HTML5, CSS3, Javascript, NodeJS + Vue JS
-Java + Spring boot, Mysql.
+<br> HTML5, CSS3, Javascript, NodeJS + Vue JS
+<br> Java + Spring boot, Mysql.
 
 
 .
