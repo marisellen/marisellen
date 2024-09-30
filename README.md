@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning **Java, Javascript and SQL**
 
 - 📕 I'm want to learn **typescript, vuejs, nodejs, spring, mongodb, aws, docker and bash**
-
-- 💬 Ask me about **HTML5 and CSS3**
-
+  
 - 📫 How to reach me **mariana02301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
