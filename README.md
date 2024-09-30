@@ -2,7 +2,7 @@
 <h2 align="center">Hi there 😺</h2>
 <h3> I'm currently a computer science student</h3>
 
-- 🌱 I’m currently learning **Java, Javascript and SQLl**
+- 🌱 I’m currently learning **Java, Javascript and SQL**
 
 - 📕 I'm want to learn **typescript, vuejs, nodejs, spring, mongodb, aws, docker and bash**
 
