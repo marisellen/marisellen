@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, Javascript, Bash and SQL**
 
-- 📕 I'm want to learn **Typescript, Vuejs, Nodejs, Spring, Mongodb, AWS and Docker **
+- 📕 I'm want to learn **Typescript, Vuejs, Nodejs, Spring, Mongodb, AWS and Docker**
   
 - 📫 How to reach me **mariana02301@gmail.com**
 
