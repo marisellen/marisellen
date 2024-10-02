@@ -2,9 +2,9 @@
 <h2 align="center">Hi there 😺</h2>
 <h3> I'm currently a computer science student</h3>
 
-- 🌱 I’m currently learning **Java, Javascript and SQL**
+- 🌱 I’m currently learning **Java, Javascript, Bash and SQL**
 
-- 📕 I'm want to learn **typescript, vuejs, nodejs, spring, mongodb, aws, docker and bash**
+- 📕 I'm want to learn **Typescript, Vuejs, Nodejs, Spring, Mongodb, AWS and Docker **
   
 - 📫 How to reach me **mariana02301@gmail.com**
 
@@ -57,6 +57,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
  <img height="120m" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marisellen&layout=compact&bg_color=0d1117&border_color=A52A2A&title_color=A52A2A&text_color=353434"> 
 <br><br>
 
+<br><br>
 
 
 
