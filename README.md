@@ -1,13 +1,8 @@
 <h2 align="center">Hi there 😺</h2>
 
-<table>
-    <tr>
-        <td style="width: 30%; vertical-align: middle;">
-            <p style="font-family: monospace; font-size: 80px;">    
-                
-    
-</p>                                                                                                                            
-    
+<div >   
+    <P style="width: 30%;">
+
     │ I'm currently a computer science student                                              
     │▸ learning
         ┗ ▸  Java
@@ -21,9 +16,11 @@
         ┗ ▸ Nodejs
         ┗ ▸ Spring
         ┗ ▸ AWS
-        ┗ ▸ Docker
-  
-<br>
+        ┗ ▸ Docker    
+
+</P>
+    <div/>
+   
 <div align="center"> 
  <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marisellen&theme=shadow_red&show_icons=true">
@@ -31,8 +28,6 @@
  <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
  <img height="120m" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marisellen&layout=compact&bg_color=0d1117&border_color=A52A2A&title_color=A52A2A&text_color=353434"> 
 <br><br>
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -44,6 +39,4 @@
 <a href="https://medium.com/@marisellen" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marisellen" height="30" width="40" target="_blank" rel="noreferrer"/></a>
 </p>
-
-
-
+<br><br>
