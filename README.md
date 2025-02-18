@@ -12,7 +12,6 @@
                </a>
         <a href="https://medium.com/@marisellen" target="_blank">
           <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marisellen" height="30" width="40" target="_blank" rel="noreferrer"/></a>
-        <br>
         </p>
 <br>
             </td>
