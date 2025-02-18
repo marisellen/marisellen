@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 😺</h2>
 <table>
     <tr>
-        <td style="width: 10%;">
+        <td>
             <img src="https://github.com/marisellen/marisellen/blob/main/img.jpg" style="width:50%; border: none;"/>
      <h4 align="left">Connect with me</h4>
         <p align="left">
