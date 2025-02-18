@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github.com/marisellen/marisellen/blob/main/img.jpg" style="width:50%; border: none;"/>
+            <img src="https://github.com/marisellen/marisellen/blob/main/img.jpg" style="width:50em"; border: none;"/>
      <h4 align="left">Connect with me</h4>
         <p align="left">
             <a href="https://dev.to/mari_sellen" target="_blank" rel="noreferrer">
