@@ -22,13 +22,17 @@
     <div/>
    
 <div align="center"> 
+
+<div align="left"> 
  <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marisellen&theme=shadow_red&show_icons=true">
 
- <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
+<a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
  <img height="120m" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marisellen&layout=compact&bg_color=0d1117&border_color=A52A2A&title_color=A52A2A&text_color=353434"> 
-<br><br>
+<div/>
 
+<br>
+    
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -39,4 +43,3 @@
 <a href="https://medium.com/@marisellen" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marisellen" height="30" width="40" target="_blank" rel="noreferrer"/></a>
 </p>
-<br><br>
