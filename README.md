@@ -18,7 +18,7 @@
             </td>
         <td sstyle="vertical-align: top; height: 100px;">
     
-    │ I'm currently a computer science student                                           
+    │ I'm currently a computer science student                                             
     │▸ learning
         ┗ ▸  Java
           ▸  SQL
