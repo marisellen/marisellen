@@ -10,14 +10,15 @@
             <a href="https://linkedin.com/in/marisellen" target="_blank">
               <img align="center" src="https://github.com/marisellen/marisellen/blob/main/linkedin.png" alt="marisellen" height="30" width="40" target="_blank" rel="noreferrer"/>                
                </a>
-        <a href="https://medium.com/@marisellen" target="_blank">
-          <img align="right" src="https://github.com/marisellen/marisellen/blob/main/medium.png" alt="@marisellen" height="30" width="40" target="_blank" rel="noreferrer"/></a>
+            <a href="https://medium.com/@marisellen" target="_blank">
+              <img align="right" src="https://github.com/marisellen/marisellen/blob/main/medium.png" alt="@marisellen" height="30" width="40" target="_blank" rel="noreferrer"/>
+                </a>
         </p>
 <br>
             </td>
         <td sstyle="vertical-align: top; height: 100px;">
     
-    │ I'm currently a computer science student                                                   
+    │ I'm currently a computer science student                                           
     │▸ learning
         ┗ ▸  Java
           ▸  SQL
