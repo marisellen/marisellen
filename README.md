@@ -17,20 +17,20 @@
             </td>
         <td sstyle="vertical-align: top; height: 100px;">
     
-    │ I'm currently a computer science student                                              
+    │ I'm currently a computer science student
     │▸ learning
         ┗ ▸  Java
-          ▸  SQL  
-          ▸  Shell Script and Bash
+          ▸  SQL
+          ▸  Shell Script
           ▸  GNU Linux
           ▸  English + German + Japanese
-    │▸ I'm want to learn 
+    │▸ I'm want to learn
         ┗ ▸ Javascript
         ┗ ▸ Typescript
         ┗ ▸ Nodejs
         ┗ ▸ Spring
         ┗ ▸ AWS
-        ┗ ▸ Docker    
+        ┗ ▸ Docker   
 
 <p align="left">
     <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
