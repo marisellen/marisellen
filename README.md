@@ -1,11 +1,7 @@
 <h2 align="center">Hi there </h2>
 <table>
     <tr>
-        <td>
-            <img src="https://github.com/marisellen/marisellen/blob/main/img.jpg" style="width:50em"; border: none;"/>
-     
-<br>
-            </td>
+
         <td sstyle="vertical-align: top; height: 100px;">
     
     │ I'm currently a computer science student                                               
