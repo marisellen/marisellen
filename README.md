@@ -9,7 +9,6 @@
           ▸  SQL
           ▸  Shell Script
           ▸  GNU Linux
-          ▸  English + German + Japanese
     │▸ I'm want to learn
         ┗ ▸ Javascript
         ┗ ▸ Typescript
