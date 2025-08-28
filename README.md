@@ -1,6 +1,6 @@
 <h2 align="center">Hi there </h2>
 <div>
-    Estudante de Ciência da Computação com visão estratégica voltada para entregar soluções robustas e escaláveis no ecossistema Java. Perfil hands-on, com mindset orientado a resultados, buscando sempre otimizar processos e garantir alta disponibilidade. Forte aderência a ambientes Linux, com expertise em administração, configuração e tuning de sistemas.
+    
 </div>
 </p>
 <div>
