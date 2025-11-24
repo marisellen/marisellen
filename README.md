@@ -19,6 +19,4 @@ Javascript - Typescript - Nodejs - AWS - Docker
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisellen&bg_color=0d1117&border_color=4f0000&title_color=9a0000&text_color=444444&layout=compact" />
 <p/>
 <div/>    
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=marisellen&theme=monokai&title=-Stars,-Issues,-Reviews"/>
-</a>
+
